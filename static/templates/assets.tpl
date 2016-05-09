@@ -1,8 +1,8 @@
 <div class="panel panel-default">
 	<div class="panel-body">
-		<h2>Assets</h2>
+		<h2>Descargas</h2>
 		<p class="lead">
-			These files have been uploaded by the site administrator for you to download.
+			Contenido exclusivo para los usuarios del foro.
 		</p>
 
 		<hr />
@@ -11,7 +11,7 @@
 		<!-- IMPORT partials/assets-list.tpl -->
 		<!-- ELSE -->
 		<div class="alert alert-info text-center">
-			No files available
+			No hay archivos disponibles.
 		</div>
 		<!-- ENDIF files.length -->
 	</div>
